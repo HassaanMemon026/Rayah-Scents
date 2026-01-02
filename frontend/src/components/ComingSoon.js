@@ -85,7 +85,7 @@ export default function ComingSoon() {
                 COMING SOON
             </Text>
             <Text variant="h5" sx={{ '@media (max-width:600px)': { fontSize: '1.4rem' } }}>
-                January 2026
+                February 2026
             </Text>
             <Box mt={4}>
                 <Text variant="body1">
